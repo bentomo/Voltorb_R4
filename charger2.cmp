@@ -1,0 +1,507 @@
+Cmp-Mod V01 Genere par PcbNew le Tue 09 Jun 2015 02:19:43 PM CDT
+
+BeginCmp
+TimeStamp = 55773C2A
+Path = 
+Reference = 12v;
+ValeurCmp = SolderWirePad_single_1-5mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_1-5mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 55773511
+Path = /5571C00C
+Reference = D1;
+ValeurCmp = 10v;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SC-70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 55773205
+Path = /556F5279
+Reference = U1;
+ValeurCmp = LTC4006;
+IdModule  = footprints:SOP-16;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772F68
+Path = /5575BCA5
+Reference = U3;
+ValeurCmp = TPS54295PWPR;
+IdModule  = footprints:PDSO-16;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772F4E
+Path = /5576AF1F
+Reference = U2;
+ValeurCmp = RT7258;
+IdModule  = footprints:8-SOP+pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772F1E
+Path = /55739859
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = footprints:murata-pvz3a-pvz3g-pvz3h;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772F11
+Path = /556F7897
+Reference = RTH1;
+ValeurCmp = 309k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772F05
+Path = /556F7631
+Reference = RT1;
+ValeurCmp = 309k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772EF9
+Path = /55710782
+Reference = RSENSE1;
+ValeurCmp = .033;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772EED
+Path = /556F6CFE
+Reference = RLED1;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772EE1
+Path = /5570AC6A
+Reference = RCL1;
+ValeurCmp = .04;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772ED5
+Path = /557360D3
+Reference = R16;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772EC9
+Path = /5573C5E6
+Reference = R15;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772EBD
+Path = /55735E63
+Reference = R14;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772EB1
+Path = /5571C2EA
+Reference = R10;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772EA5
+Path = /55761363
+Reference = R9;
+ValeurCmp = 22.1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E99
+Path = /5570B04A
+Reference = R8;
+ValeurCmp = 5k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E8D
+Path = /55760FA4
+Reference = R7;
+ValeurCmp = 124k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E81
+Path = /55760F16
+Reference = R6;
+ValeurCmp = 22.1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E75
+Path = /5576092F
+Reference = R5;
+ValeurCmp = 73.2k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E69
+Path = /556F7C9B
+Reference = R4;
+ValeurCmp = 6.04k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E5D
+Path = /557651DB
+Reference = R3;
+ValeurCmp = 22.1k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E51
+Path = /55766F7A
+Reference = R2;
+ValeurCmp = 25.5k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E45
+Path = /556F5C3C
+Reference = R1;
+ValeurCmp = 500k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772DB9
+Path = /5576503C
+Reference = L4;
+ValeurCmp = 3.3u;
+IdModule  = footprints:bourns-SRP4020TA;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772DAD
+Path = /55765816
+Reference = L3;
+ValeurCmp = 2.2u;
+IdModule  = footprints:abracon-aspi-4020hi;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772DA0
+Path = /5575F845
+Reference = L2;
+ValeurCmp = 1.5u;
+IdModule  = footprints:bourns-SRP7028A;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D94
+Path = /5570F506
+Reference = L1;
+ValeurCmp = 15u;
+IdModule  = footprints:Vishay_ER_inductor_15uH;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D7C
+Path = /55760A64
+Reference = C27;
+ValeurCmp = 15p;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D70
+Path = /55768FF6
+Reference = C26;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D64
+Path = /55769671
+Reference = C25;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D58
+Path = /5575C3DF
+Reference = C24;
+ValeurCmp = .1u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D4C
+Path = /5575CD4D
+Reference = C23;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D40
+Path = /5575EF8C
+Reference = C22;
+ValeurCmp = 4.7n;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D34
+Path = /5575D493
+Reference = C21;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D28
+Path = /5575F073
+Reference = C20;
+ValeurCmp = 4.7n;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D1C
+Path = /5575D655
+Reference = C19;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D10
+Path = /5575C856
+Reference = C18;
+ValeurCmp = .1u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772D04
+Path = /55767EA0
+Reference = C17;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CF8
+Path = /55763A21
+Reference = C16;
+ValeurCmp = 15p;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CEC
+Path = /5576821C
+Reference = C15;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CE0
+Path = /5570C225
+Reference = C14;
+ValeurCmp = 15n;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CD4
+Path = /5576F0DA
+Reference = C13;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CC8
+Path = /5576F006
+Reference = C12;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CBC
+Path = /5576C306
+Reference = C11;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CB0
+Path = /5576C270
+Reference = C10;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772CA4
+Path = /5576C1DC
+Reference = C9;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C98
+Path = /556F7DE9
+Reference = C8;
+ValeurCmp = 4.7n;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C8C
+Path = /556F7E5C
+Reference = C7;
+ValeurCmp = .12u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C80
+Path = /55761B49
+Reference = C6;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C74
+Path = /5575DA45
+Reference = C5;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C68
+Path = /5576B6F8
+Reference = C4;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C5C
+Path = /557133D6
+Reference = C3;
+ValeurCmp = 22u;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C50
+Path = /5570FECF
+Reference = C2;
+ValeurCmp = 150u;
+IdModule  = footprints:Kemet_CAP;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772C3F
+Path = /5570A8B0
+Reference = C1;
+ValeurCmp = .1u;
+IdModule  = footprints:nichicon_electrolytic;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772DE9
+Path = /5570A088
+Reference = Q3;
+ValeurCmp = Q_PMOS;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772DC9
+Path = /5570B5CA
+Reference = Q1;
+ValeurCmp = Q_PMOS;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772DD9
+Path = /5570B7C1
+Reference = Q2;
+ValeurCmp = Q_NMOS;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772DF9
+Path = /5571BB66
+Reference = Q4;
+ValeurCmp = Q_PMOS;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E09
+Path = /556F6B18
+Reference = Q5;
+ValeurCmp = NPN;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E19
+Path = /55777C8C
+Reference = Q6;
+ValeurCmp = NPN;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E29
+Path = /557781B8
+Reference = Q7;
+ValeurCmp = NPN;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 55772E39
+Path = /5576422A
+Reference = Q8;
+ValeurCmp = Q_NMOS_DGS;
+IdModule  = footprints:SOT-23;
+EndCmp
+
+EndListe

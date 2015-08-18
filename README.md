@@ -8,4 +8,6 @@ The board has an adjustable low battery LED on the back that can turn on when a 
 
 There are 2 switching regulators on the PCB. There is a RichTek RT7258 and a Texas Instruments TPS542951 on the board. The Richtek regulator is suppying the 1.9v line to power a gamecube and can source up to 10 amperes. The TI regulator is a dual output regulator for the 3.3v logic line and a 5v line that can each source 2 amperes for miscellaneous components such as fans, rumble motors, screens etc. 
 
-As I said before this project is a work in progress and still has heat issues. It will charge a battery and 
+As I said before this project is a work in progress and still has heat issues. It will charge a battery and power a gamecube as long as you are heatsinking the inductors.
+
+I am not responsible for any damages to yourself or your properties. Batteries are nothing to fool with and if you're not careful and don't respect them then you do not deserve to work with this project.
